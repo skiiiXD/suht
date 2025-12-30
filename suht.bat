@@ -15,6 +15,10 @@ IF "%1"=="version" (
 IF "%1"=="delete" (
     goto :delete
 )
+IF "%1"=="update" (
+    %~dp0%update.bat
+    exit /b
+)
 IF "%1"=="" (
     goto :suht
 )
