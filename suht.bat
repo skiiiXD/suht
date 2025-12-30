@@ -68,7 +68,7 @@ echo console.log("Hello, SUHT!") >> main.js
 exit /b
 :help
 echo.
-echo Version of SUHT 1.0.1
+echo Version of SUHT 1.0.2
 echo.
 echo Type suht help, to see this.
 echo Type suht init, to create files.
@@ -82,12 +82,7 @@ exit /b
 
 :version
 echo.
-echo  ▄▄   ▄  ▄▌ ▄  ▄▄▄▄▄▄ 
-echo ▐█ ▀  █ ██▌██ ▐█ ██  
-echo ▄▀▀▀█▄█▌▐█▌██▀▐█ ▐█    1.0.1
-echo ▐█▄ ▐█▐█▄█▌██▌▐▀ ▐█▌
-echo  ▀▀▀▀  ▀▀▀ ▀▀▀   ▀▀▀ 
-echo.
+echo SUHT 1.0.2
 echo super ultra html tool
 exit /b
 
