@@ -79,6 +79,7 @@ echo Type suht init, to create files.
 echo Type suht new [name], to create directory with files.
 echo Type suht delete [name], to delete files created by SUHT.
 echo Type suht version, to see your version of SUHT.
+echo Type suht update, to update your version of SUHT.
 echo.
 echo WARNING!! I DONT KNOW ENGLISH!!! can be errors in translate!
 
