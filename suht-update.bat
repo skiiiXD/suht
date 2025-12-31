@@ -1,4 +1,5 @@
 @echo off
+set "te=%cd%"
 cd /d "%~dp0"
 set /A num=2
 :upd
@@ -10,3 +11,4 @@ if %num%==1 (
     goto :upd
 )
 suht-downoload.bat
+cd %te%
