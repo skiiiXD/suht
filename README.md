@@ -1,3 +1,3 @@
-to downoload suht, open downoload.bat
+to downoload suht, open suht-downoload.bat
 
 created by skiiiXD 
